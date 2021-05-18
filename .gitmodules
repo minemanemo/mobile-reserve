@@ -1,6 +1,8 @@
 [submodule "mobile-reserve-react"]
 	path = mobile-reserve-react
 	url = git@github.com:minemanemo/mobile-reserve-react.git
+	branch = master
 [submodule "mobile-reserve-api"]
 	path = mobile-reserve-api
 	url = git@github.com:minemanemo/mobile-reserve-api.git
+	branch = master
