@@ -21,7 +21,7 @@
 - Coupon 발급 API (POST)
 - Coupon 리스트 조회 API (GET)
 
-## 🏌️‍♀️ Coupon Generator Algorithm([소스 보기](./mobile-reserve-api/src/main/java/com/smilegatemegaport/mobilereserveapi/service/CouponServiceHandler.java))
+## 🏌️‍♀️ Coupon Generator Algorithm([소스 보기](https://github.com/minemanemo/mobile-reserve-api/blob/38dcd7e7e2d87ed43e0cbba0ef5c7d7eb92e6964/src/main/java/com/smilegatemegaport/mobilereserveapi/service/CouponServiceHandler.java#L57))
 
 - 숫자(0-9), 영대소문자(a-z, A-Z) 총 62(10 + 26 + 26)개의 문자를 리스트에 저장
 - 리스트를 셔플하여 앞에서부터 12자리까지 읽은 결과를 쿠폰으로 사용
